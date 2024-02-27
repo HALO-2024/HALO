@@ -1,0 +1,6 @@
+compile_log
+runtime_log
+main
+.vscode
+*.dat
+*.xlsx
